@@ -34,27 +34,28 @@ Senior Engineer @Onix
 
 ### 🛠 &nbsp;Languages and Tools :
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/355193/redhat.svg" alt="redhat" width="40" height="40"/> </a>
-<a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=sFFBQN8kzSOS&format=png" alt="vmware" width="40" height="40"/> </a>
-<a href="https://www.docker.com//" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331370/docker.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373699/jenkins.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="Kubernetes" width="40" height="40"/> </a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373429/ansible.svg" alt="Ansible" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374122/terraform.svg" alt="Terraform" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/console/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://portal.azure.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448274/azure.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="GCP" width="40" height="40"/> </a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448226/gitlab.svg" alt="gitlab" width="40" height="40"/> </a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353829/grafana.svg" alt="grafana" width="40" height="40"/> </a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374008/prometheus.svg" alt="Prometheus" width="40" height="40"/> </a>
-<a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/splunk-logo.png" alt="splunk" width="40" height="40"/> </a>
-</p>
+### 🛠 Languages and Tools :
 
+<p align="left">
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+  <a href="https://www.redhat.com/"><img src="https://www.svgrepo.com/show/355193/redhat.svg" width="40" height="40"/></a>
+  <a href="https://www.vmware.com/"><img src="https://img.icons8.com/?size=256&id=sFFBQN8kzSOS&format=png" width="40" height="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/331370/docker.svg" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://www.svgrepo.com/show/373699/jenkins.svg" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/"><img src="https://www.svgrepo.com/show/376331/kubernetes.svg" width="40" height="40"/></a>
+  <a href="https://www.ansible.com/"><img src="https://www.svgrepo.com/show/373429/ansible.svg" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/"><img src="https://www.svgrepo.com/show/374122/terraform.svg" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://www.svgrepo.com/show/376356/aws.svg" width="40" height="40"/></a>
+  <a href="https://portal.azure.com/"><img src="https://www.svgrepo.com/show/448274/azure.svg" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/"><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" width="40" height="40"/></a>
+  <a href="https://about.gitlab.com/"><img src="https://www.svgrepo.com/show/448226/gitlab.svg" width="40" height="40"/></a>
+  <a href="https://grafana.com/"><img src="https://www.svgrepo.com/show/353829/grafana.svg" width="40" height="40"/></a>
+  <a href="https://prometheus.io/"><img src="https://www.svgrepo.com/show/374008/prometheus.svg" width="40" height="40"/></a>
+</p>
 ---
 
 ## :fire: My GitHub Stats :
