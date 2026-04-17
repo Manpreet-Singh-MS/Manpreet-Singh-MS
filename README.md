@@ -1,7 +1,7 @@
 # 🚀 Manpreet Singh - DevOps & Cloud Engineer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/devops-banner.gif" width="100%" alt="DevOps Banner" style="border-radius: 12px; margin-bottom: 20px;">
+<img src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif" width="400" height="200"/>
 </div>
 
 ---
