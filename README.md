@@ -144,8 +144,6 @@ I'm passionate about **DevOps excellence**, **infrastructure automation**, and *
   
   **📧 Reach out:** [manpreet.singh.ms.tech@gmail.com](mailto:manpreet.singh.ms.tech@gmail.com)
   
-  **💬 Quick chat:** [WhatsApp](https://wa.me/918800931978)
-  
   **🔗 Professional:** [LinkedIn](https://www.linkedin.com/in/manpreet-singh-ms/)
 
   ---
